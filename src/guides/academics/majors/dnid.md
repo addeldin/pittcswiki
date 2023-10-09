@@ -92,4 +92,5 @@ In-class projects might require special equipment, so it's important to remember
 ## Resources
 
 Further DNID resources can be found [here](https://drive.google.com/file/d/1SCA9CJ6gx60XFC1pUULt61i27KWOzvSY/view?usp=sharing)
+The program also has a Discord server! Please contact Addison Eldin, at addison.eldin@pitt.edu, for an invitation link.
 For any questions regarding the major, reach out to the DNID Assistant Director, Dr. Jessica FitzPatrick, at JLF115@pitt.edu.
